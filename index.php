@@ -33,10 +33,10 @@
 <body>
     <form method="POST" action="">
         <label for="user">Usuario:</label>
-        <input type="text" name="user" required>
+        <input type="text" name="usuario" required>
         <br>
         <label for="password">Contraseña:</label>
-        <input type="password" name="password" required>
+        <input type="password" name="pass" required>
         <br>
         <button type="submit">Iniciar sesión</button>
     </form>
